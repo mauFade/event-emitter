@@ -1,0 +1,4 @@
+16092022	16:21:06	3fba9252-bf00-4400-8de6-e0561e32ac57	Log event rolou16092022	16:22:31	3530d36d-9292-4b45-850b-330f8835cedc	Log event rolou
+16092022	16:22:44	00419700-767e-40f4-9074-7c5bccaa4477	Log event rolou
+16092022	16:22:58	0a2a6d30-76a3-439d-8780-f59bcffbf17d	Log event rolou de novo
+16092022	16:23:13	ce2a7577-99e2-42cd-8b0d-7a92c0647a49	Log event rolou de novo mais uma vez novamente
